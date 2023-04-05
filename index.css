@@ -1,0 +1,16 @@
+body{
+    background: #20c1ae;
+}
+.player{
+    margin: 0 80px ;
+    padding: 110px;
+    display: inline-block;
+
+    align-items: center;
+    
+}
+h1{
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 5rem;
+}
